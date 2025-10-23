@@ -12,9 +12,10 @@ This repository is a collection of notes, code, and examples I gathered whilst l
 
 ---
 
-## Current Courses
+## Current Resources
 
-| Directory | Source |
-|------------|---------|
-| [Complete-ML-Course-Part1](https://github.com/emhayki/ML/tree/main/Complete-ML-Course-Part1) | [Complete ML Course – Part 1](https://www.youtube.com/watch?v=LcWFedjaR4Q&list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo&index=1) |
-| [Supervised ML – Regression & Classification](https://github.com/emhayki/ML/tree/main/Supervised-ML-Regression-Classification) | [Machine Learning Specialisation – DeepLearning.AI](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI) |
+- **[Complete-ML-Course-Part1](https://github.com/emhayki/ML/tree/main/Complete-ML-Course-Part1)**  
+  ↳ Based on [Complete ML Course – Part 1 (YouTube Playlist)](https://www.youtube.com/watch?v=LcWFedjaR4Q&list=PLfFghEzKVmjvII5ZcBnFWQOUjtUVdDnmo&index=1)
+
+- **[Supervised ML – Regression & Classification](https://github.com/emhayki/ML/tree/main/Supervised-ML-Regression-Classification)**  
+  ↳ Based on [Machine Learning Specialisation – DeepLearning.AI (YouTube Playlist)](https://www.youtube.com/watch?v=vStJoetOxJg&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI)
