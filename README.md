@@ -5,10 +5,9 @@ This repository is a collection of notes, code, and examples I gathered whilst l
 ---
 
 ## Repository Structure
-- A separate folder for each course or topic  
-- Inside each folder you’ll find:
-  - Notes I wrote whilst studying  
-  - Code examples and exercises  
+Each folder corresponds to a course or topic and contains:
+- Notes and explanations  
+- Code samples and exercises
 
 ---
 
